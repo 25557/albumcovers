@@ -73,6 +73,7 @@ html, body, div, article, p, h2, h1 {
   grid-gap: 1em;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)) ;
+  justify-items: center;
 }
 
 .cover{
